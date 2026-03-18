@@ -12,7 +12,12 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ## Requirements
-
+numpy==2.4.3
+pandas==2.3.3
+matplotlib
+streamlit
+seaborn
+plotly
 
 ## Menjalankan Dashboard
 streamlit run dashboard.py
