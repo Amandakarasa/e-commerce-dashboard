@@ -27,13 +27,12 @@ source venv/bin/activate
 #### 3. **Instal Dependensi**
 Pastikan Anda memiliki file `requirements.txt` yang berisi semua library yang diperlukan. Jika belum, buat dengan isi:
 ```
-pandas
-numpy
-matplotlib
-seaborn
+numpy==2.4.3
+pandas==2.3.3
 streamlit
-folium
-geopandas
+pickle
+scikit-learn
+pip==26.0.1
 ```
 
 Kemudian jalankan:
