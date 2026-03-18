@@ -29,10 +29,10 @@ Pastikan Anda memiliki file `requirements.txt` yang berisi semua library yang di
 ```
 numpy==2.4.3
 pandas==2.3.3
+matplotlib
 streamlit
-pickle
-scikit-learn
-pip==26.0.1
+seaborn
+plotly
 ```
 
 Kemudian jalankan:
