@@ -11,8 +11,8 @@ venv\Scripts\activate
 # Mac/Linux:
 source venv/bin/activate
 
-# Install dependencies
-pip install -r requirements.txt
+## Requirements
+
 
 ## Menjalankan Dashboard
 streamlit run dashboard.py
